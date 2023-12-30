@@ -1,0 +1,20 @@
+[
+{
+  "directory": "A:/dev/Expression Evaluation-Shunting Yard Algorithm/build",
+  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\G__~1.EXE   -g -o CMakeFiles\\expr_eval.dir\\main.cpp.obj -c \"A:\\dev\\Expression Evaluation-Shunting Yard Algorithm\\main.cpp\"",
+  "file": "A:/dev/Expression Evaluation-Shunting Yard Algorithm/main.cpp",
+  "output": "CMakeFiles/expr_eval.dir/main.cpp.obj"
+},
+{
+  "directory": "A:/dev/Expression Evaluation-Shunting Yard Algorithm/build",
+  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\G__~1.EXE   -g -o CMakeFiles\\expr_eval.dir\\eval.cpp.obj -c \"A:\\dev\\Expression Evaluation-Shunting Yard Algorithm\\eval.cpp\"",
+  "file": "A:/dev/Expression Evaluation-Shunting Yard Algorithm/eval.cpp",
+  "output": "CMakeFiles/expr_eval.dir/eval.cpp.obj"
+},
+{
+  "directory": "A:/dev/Expression Evaluation-Shunting Yard Algorithm/build",
+  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\G__~1.EXE   -g -o CMakeFiles\\expr_eval.dir\\parse_out.cpp.obj -c \"A:\\dev\\Expression Evaluation-Shunting Yard Algorithm\\parse_out.cpp\"",
+  "file": "A:/dev/Expression Evaluation-Shunting Yard Algorithm/parse_out.cpp",
+  "output": "CMakeFiles/expr_eval.dir/parse_out.cpp.obj"
+}
+]

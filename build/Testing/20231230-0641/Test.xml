@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20231230-0641-Experimental"
+	Name="DESKTOP-42FFPT6"
+	Generator="ctest-3.28.0-rc5"
+	CompilerName="C:/Program Files/CodeBlocks/MinGW/bin/g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="DESKTOP-42FFPT6"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="1"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="17360"
+	TotalPhysicalMemory="16336"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3600"
+	>
+	<Testing>
+		<StartDateTime>Dec 30 17:15 Bangladesh Standard Time</StartDateTime>
+		<StartTestTime>1703934956</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 30 17:15 Bangladesh Standard Time</EndDateTime>
+		<EndTestTime>1703934956</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
